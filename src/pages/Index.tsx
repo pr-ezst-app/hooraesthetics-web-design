@@ -223,7 +223,7 @@ export default function Index() {
               <p className="text-xs tracking-[0.35em] uppercase text-blush mb-4 font-body">Our Work</p>
               <h2 className="font-display text-5xl md:text-6xl text-charcoal">The <span className="italic text-blush">Gallery</span></h2>
             </div>
-            <a href="https://instagram.com/hooraesthetics" target="_blank" rel="noopener noreferrer" className="flex items-center gap-2 text-sm text-charcoal/60 hover:text-blush transition-colors">
+            <a href="https://www.instagram.com/hooraesthetics_" target="_blank" rel="noopener noreferrer" className="flex items-center gap-2 text-sm text-charcoal/60 hover:text-blush transition-colors">
               <Icon name="Instagram" size={16} />
               <span className="tracking-widest uppercase text-xs">@hooraesthetics</span>
             </a>
@@ -238,7 +238,7 @@ export default function Index() {
 
           {/* Instagram CTA */}
           <a
-            href="https://instagram.com/hooraesthetics"
+            href="https://www.instagram.com/hooraesthetics_"
             target="_blank"
             rel="noopener noreferrer"
             className="mt-10 flex items-center justify-center gap-3 group"
@@ -349,7 +349,7 @@ export default function Index() {
               Fill out the form and we'll get back to you within 24 hours to confirm your appointment. We can't wait to welcome you.
             </p>
             <div className="flex flex-col gap-6">
-              <a href="https://instagram.com/hooraesthetics" target="_blank" rel="noopener noreferrer" className="flex items-center gap-4 group">
+              <a href="https://www.instagram.com/hooraesthetics_" target="_blank" rel="noopener noreferrer" className="flex items-center gap-4 group">
                 <div className="w-12 h-12 rounded-full bg-blush/10 flex items-center justify-center group-hover:bg-blush/20 transition-colors">
                   <Icon name="Instagram" size={18} className="text-blush" />
                 </div>
@@ -431,7 +431,7 @@ export default function Index() {
                 </button>
               ))}
             </div>
-            <a href="https://instagram.com/hooraesthetics" target="_blank" rel="noopener noreferrer" className="flex items-center gap-2 text-white/60 hover:text-white transition-colors">
+            <a href="https://www.instagram.com/hooraesthetics_" target="_blank" rel="noopener noreferrer" className="flex items-center gap-2 text-white/60 hover:text-white transition-colors">
               <Icon name="Instagram" size={18} />
               <span className="text-xs tracking-widest uppercase">@hooraesthetics</span>
             </a>
