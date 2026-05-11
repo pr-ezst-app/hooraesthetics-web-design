@@ -235,6 +235,21 @@ export default function Index() {
               </div>
             ))}
           </div>
+
+          {/* Instagram CTA */}
+          <a
+            href="https://instagram.com/hooraesthetics"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="mt-10 flex items-center justify-center gap-3 group"
+          >
+            <div className="flex items-center gap-3 border border-blush/30 rounded-full px-8 py-4 hover:bg-blush hover:border-blush transition-all duration-300 group">
+              <Icon name="Instagram" size={18} className="text-blush group-hover:text-white transition-colors" />
+              <span className="text-xs tracking-widest uppercase text-charcoal/70 group-hover:text-white transition-colors">
+                See more on @hooraesthetics
+              </span>
+            </div>
+          </a>
         </div>
       </section>
 
