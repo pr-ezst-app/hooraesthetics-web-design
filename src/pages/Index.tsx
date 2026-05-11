@@ -31,7 +31,7 @@ const testimonials = [
 ];
 
 const faqs = [
-  { q: "How do I book an appointment?", a: "Simply fill out the booking request form on our website or DM us on Instagram @hooraesthetics. We'll reach out within 24 hours to confirm your appointment." },
+  { q: "How do I book an appointment?", a: "Simply fill out the booking request form on our website or DM us on Instagram @hooraesthetics_. We'll reach out within 24 hours to confirm your appointment." },
   { q: "What should I do to prepare for my first appointment?", a: "Come with a clean face if possible and avoid retinol or active skincare for 24 hours prior. We'll do a quick skin consultation before every session." },
   { q: "Are your treatments suitable for sensitive skin?", a: "Absolutely. We customize every treatment to your unique skin type and concerns. We always patch-test new clients before applying any active products." },
   { q: "How far in advance should I book?", a: "We recommend booking at least 3–5 days in advance, especially for weekends. Same-week slots are sometimes available — reach out and we'll do our best." },
@@ -225,7 +225,7 @@ export default function Index() {
             </div>
             <a href="https://www.instagram.com/hooraesthetics_" target="_blank" rel="noopener noreferrer" className="flex items-center gap-2 text-sm text-charcoal/60 hover:text-blush transition-colors">
               <Icon name="Instagram" size={16} />
-              <span className="tracking-widest uppercase text-xs">@hooraesthetics</span>
+              <span className="tracking-widest uppercase text-xs">@hooraesthetics_</span>
             </a>
           </div>
           <div className="grid grid-cols-2 md:grid-cols-3 gap-3 md:gap-4">
@@ -246,7 +246,7 @@ export default function Index() {
             <div className="flex items-center gap-3 border border-blush/30 rounded-full px-8 py-4 hover:bg-blush hover:border-blush transition-all duration-300 group">
               <Icon name="Instagram" size={18} className="text-blush group-hover:text-white transition-colors" />
               <span className="text-xs tracking-widest uppercase text-charcoal/70 group-hover:text-white transition-colors">
-                See more on @hooraesthetics
+                See more on @hooraesthetics_
               </span>
             </div>
           </a>
@@ -355,7 +355,7 @@ export default function Index() {
                 </div>
                 <div>
                   <p className="text-xs tracking-widest uppercase text-charcoal/50 mb-1">Instagram</p>
-                  <p className="text-charcoal font-medium">@hooraesthetics</p>
+                  <p className="text-charcoal font-medium">@hooraesthetics_</p>
                 </div>
               </a>
               <div className="flex items-center gap-4">
@@ -433,7 +433,7 @@ export default function Index() {
             </div>
             <a href="https://www.instagram.com/hooraesthetics_" target="_blank" rel="noopener noreferrer" className="flex items-center gap-2 text-white/60 hover:text-white transition-colors">
               <Icon name="Instagram" size={18} />
-              <span className="text-xs tracking-widest uppercase">@hooraesthetics</span>
+              <span className="text-xs tracking-widest uppercase">@hooraesthetics_</span>
             </a>
           </div>
           <div className="border-t border-white/10 mt-10 pt-8 text-center">
